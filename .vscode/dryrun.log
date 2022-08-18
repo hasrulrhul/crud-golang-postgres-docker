@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/hasrul/Development/Golang/docker-go'
+docker-compose up --build -d
+make: Leaving directory `/Users/hasrul/Development/Golang/docker-go'
+ 
